@@ -37393,8 +37393,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\WAMP\www\password-manager\password-manager\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\WAMP\www\password-manager\password-manager\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\WAMP\www\password-manager\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\WAMP\www\password-manager\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
